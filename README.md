@@ -3,10 +3,10 @@
 ## Berikut ini adalah hasil dari codingan index.php, tambah.php, dan ubah.php serta hapus.php
 
 - **Gambar**   
-![img 1](img/1.png)
+![img 1](1.png)
 - **Gambar**   
-![img 1](img/2.png)
+![img 1](2.png)
 - **Gambar**   
-![img 1](img/3.png)
+![img 1](3.png)
 
 ### SEKIAN TERIMA KASIH
